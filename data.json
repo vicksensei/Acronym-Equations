@@ -1,0 +1,124 @@
+{
+  "Q1": {
+    "Text": "26 = L of the A",
+    "Letters": ["L", "A"],
+    "Answers": ["Letters", "Alphabet "]
+  },
+  "Q2": {
+    "Text": "7 = W of the W ",
+    "Letters": ["W", "W"],
+    "Answers": ["Wonders", "World"]
+  },
+  "Q3": {
+    "Text": "1001 = A N",
+    "Letters": ["A", "N"],
+    "Answers": ["Arabian", "Nights"]
+  },
+  "Q4": {
+    "Text": "12 = S of the Z",
+    "Letters": ["S", "Z"],
+    "Answers": ["Signs", "Zodiac"]
+  },
+  "Q5": {
+    "Text": "54 = C in a D (with J)",
+    "Letters": ["C", "D", "J"],
+    "Answers": ["Cards", "Deck", "Joker"]
+  },
+  "Q6": {
+    "Text": "9  = P in the S S (counting P)",
+    "Letters": ["P", "S", "S", "P"],
+    "Answers": ["Planets", "Solar", "System", "Pluto "]
+  },
+  "Q7": {
+    "Text": "88 = P K ",
+    "Letters": ["P", "K"],
+    "Answers": ["Piano", "Keys"]
+  },
+  "Q8": {
+    "Text": "13 = S on the A F",
+    "Letters": ["S", "A", "F"],
+    "Answers": ["Stripes", "American", "Flag "]
+  },
+  "Q9": {
+    "Text": "32 = D F at which W F",
+    "Letters": ["D", "F", "W", "F"],
+    "Answers": ["Degrees", "Fahrenheit", "Water", "Freezes"]
+  },
+  "Q10": {
+    "Text": "18 = H on a G C ",
+    "Letters": ["H", "G", "C"],
+    "Answers": ["Holes", "Golf", "Course "]
+  },
+  "Q11": {
+    "Text": "90 = D in a R A",
+    "Letters": ["D", "R", "A "],
+    "Answers": ["Degrees", "Right", "Angles"]
+  },
+  "Q12": {
+    "Text": "200 = D in a P G",
+    "Letters": ["D", "P", "G"],
+    "Answers": ["Dollars", "Go", "Monopoly "]
+  },
+  "Q13": {
+    "Text": "8 = S on the S S",
+    "Letters": ["S", "S", "S"],
+    "Answers": ["Sides", "Stop", "Sign"]
+  },
+  "Q14": {
+    "Text": "3 = B M (S H T R)",
+    "Letters": ["B", "M", "S", "H", "T", "R "],
+    "Answers": ["Blind", "Mice", "See", "How", "They", "Run"]
+  },
+  "Q15": {
+    "Text": "4 = Q in a G ",
+    "Letters": ["Q", "G"],
+    "Answers": ["Quarts", "Gallon"],
+    "Alt": ["Quarters", "Game"]
+  },
+  "Q16": {
+    "Text": "24 = H in a D",
+    "Letters": ["H", "D"],
+    "Answers": ["Hours", "Day"]
+  },
+  "Q17": {
+    "Text": "1 = W on a U",
+    "Letters": ["W", "U"],
+    "Answers": ["Wheels", "Unicycle"]
+  },
+  "Q18": {
+    "Text": "5 = D in a Z C",
+    "Letters": ["D", "Z", "C"],
+    "Answers": ["Digits", "Zip", "Code"]
+  },
+  "Q19": {
+    "Text": "57 = H V",
+    "Letters": ["H", "V"],
+    "Answers": ["Heinz", "Varieties"]
+  },
+  "Q20": {
+    "Text": "11 = P on a F T",
+    "Letters": ["P", "F", "T"],
+    "Answers": ["Players", "Football", "Team"]
+  },
+  "Q21": {
+    "Text": "1000 = W that a P is W ",
+    "Letters": ["W", "P", "W"],
+    "Answers": ["Words", "Picture", "Worth"]
+  },
+  "Q22": {
+    "Text": "29 = D in F in a L Y",
+    "Letters": ["D", "F", "L", "Y"],
+    "Answers": ["Days", "February", "Leap", "Year"]
+  },
+  "Q23": {
+    "Text": "64 = S on a C",
+    "Letters": ["S", "C"],
+    "Answers": ["Squares", "Chessboard"],
+    "Alt": ["Spaces", "Checkerboard"]
+  },
+  "Q24": {
+    "Text": "40 = D and N of the GF",
+    "Letters": ["D", "N", "G", "F"],
+    "Answers": ["Days", "Nights", "Great", "Flood"]
+  }
+}

@@ -1,0 +1,79 @@
+body {
+  background-color: dodgerblue;
+}
+div {
+  display: flex;
+  margin: 0.3vw;
+}
+#main {
+  flex-direction: column;
+  align-items: center;
+  border-radius: 2vw;
+  border: 1px black solid;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+.questionline {
+  border-radius: 5px;
+  background-color: white;
+  flex-direction: column;
+  padding: 5px;
+  margin: 1%;
+  width: 70%;
+}
+.correct::after {
+  content: "✓";
+  color: white;
+  border-radius: 50%;
+  background-color: green;
+  width: 2vw;
+  height: 2vw;
+  font-size: 1vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.3vw;
+}
+.incorrect::after {
+  content: "X";
+  color: white;
+  border-radius: 50%;
+  background-color: red;
+  width: 2vw;
+  height: 2vw;
+  font-size: 1vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.3vw;
+}
+.QuestionText {
+  font-size: larger;
+  font-weight: bold;
+  margin: 0.3vw;
+}
+
+.button {
+  color: white;
+  font-weight: bold;
+  padding: 1vh;
+  margin: 0.3vw;
+  background-color: dodgerblue;
+  border-radius: 1vh;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.number {
+  color: white;
+  font-weight: bold;
+  background-color: black;
+  font-size: 1vw;
+  width: 2vw;
+  height: 2vw;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+}
+.inputs {
+  flex-wrap: wrap;
+}
