@@ -11,6 +11,7 @@ div {
   border-radius: 2vw;
   border: 1px black solid;
   background-color: rgba(255, 255, 255, 0.7);
+  padding: 1%;
 }
 .questionline {
   border-radius: 5px;
@@ -76,4 +77,24 @@ div {
 }
 .inputs {
   flex-wrap: wrap;
+}
+@media only screen and (max-width: 600px) {
+  .number {
+    font-size: 2vh;
+    width: 4vh;
+    height: 4vh;
+  }
+  .incorrect::after {
+    font-size: 2vh;
+    width: 4vh;
+    height: 4vh;
+  }
+  .correct::after {
+    font-size: 2vh;
+    width: 4vh;
+    height: 4vh;
+  }
+  .questionline {
+    width: 90%;
+  }
 }
