@@ -22,7 +22,7 @@
   "Q5": {
     "Text": "54 = C in a D (with J)",
     "Letters": ["C", "D", "J"],
-    "Answers": ["Cards", "Deck", "Jokes"]
+    "Answers": ["Cards", "Deck", "Jokers"]
   },
   "Q6": {
     "Text": "9  = P in the S S (counting P)",
@@ -52,12 +52,12 @@
   "Q11": {
     "Text": "90 = D in a R A",
     "Letters": ["D", "R", "A"],
-    "Answers": ["Degrees", "Right", "Angles"]
+    "Answers": ["Degrees", "Right", "Angle"]
   },
   "Q12": {
-    "Text": "200 = D in a P G",
-    "Letters": ["D", "P", "G"],
-    "Answers": ["Dollars", "Go", "Monopoly"]
+    "Text": "200 = D for P G in M",
+    "Letters": ["D", "P", "G", "M"],
+    "Answers": ["Dollars", "Passing", "Go", "Monopoly"]
   },
   "Q13": {
     "Text": "8 = S on the S S",
@@ -65,7 +65,7 @@
     "Answers": ["Sides", "Stop", "Sign"]
   },
   "Q14": {
-    "Text": "3 = B M (S H T R)",
+    "Text": "3 = B M ( S H T R )",
     "Letters": ["B", "M", "S", "H", "T", "R"],
     "Answers": ["Blind", "Mice", "See", "How", "They", "Run"]
   },
@@ -117,7 +117,7 @@
     "Alt": ["Spaces", "Checkerboard"]
   },
   "Q24": {
-    "Text": "40 = D and N of the GF",
+    "Text": "40 = D and N of the G F ",
     "Letters": ["D", "N", "G", "F"],
     "Answers": ["Days", "Nights", "Great", "Flood"]
   }
